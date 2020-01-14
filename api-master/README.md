@@ -5,6 +5,7 @@ A simple REST API with CRUD operations. The API will use an internal array, buil
 https://golang.org/
 
 ## How to build it
+## Build##
 
 To build the api from source - you need to install go, pull the dependancies and compile.
 
